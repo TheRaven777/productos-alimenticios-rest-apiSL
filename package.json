@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheRaven777/productos-alimenticios-rest-apiSL/issues"
   },
-  "homepage": "https://github.com/TheRaven777/productos-alimenticios-rest-apiSL#readme"
+  "homepage": "https://github.com/TheRaven777/productos-alimenticios-rest-apiSL#readme",
+  "dependencies": {
+    "mongoose": "^6.2.2"
+  }
 }
