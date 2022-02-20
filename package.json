@@ -18,6 +18,7 @@
   "homepage": "https://github.com/TheRaven777/productos-alimenticios-rest-apiSL#readme",
   "dependencies": {
     "config": "^3.3.7",
+    "crypto-js": "^4.1.1",
     "mongoose": "^6.2.2",
     "mongoose-unique-validator": "^3.0.0"
   }
