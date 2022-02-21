@@ -8,6 +8,6 @@ app.get("/", (req, res, next) => {
     res.send("Welcome to productos alimenticios rest api.");
 });
 
-app.listen(port, ()=>{
+app.listen(3000, ()=>{
     console.log("Server is running...")
 });
